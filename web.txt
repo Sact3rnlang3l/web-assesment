@@ -1,0 +1,10 @@
+**How does the internet work? What happens when you click on a link? **
+
+The internet is a vast network of computers all connecting with each other.
+    click link for https://matias.ma/nsfw/
+    Your browser breaks down the URL into seperate parts including-
+        Protocol
+        domain-which will translated by DNS into an ip address
+        path- what way to go on the domain for requested data.
+    Each devices sends out packets of data,  spreading out your data over the network, all with a specific id or tag on your desired location.
+    

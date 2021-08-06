@@ -9,7 +9,25 @@ body {
 
 nav {
 	border-bottom: 2px solid orange;
+	
 }
+
+.b1 {
+	background: rgb(42, 161, 174);
+	width: 120px;
+	height: 75px;
+}
+.b2 {
+	background: rgb(42, 161, 174);
+	width: 120px;
+	height: 75px;
+	transition-duration: 0s;
+}
+.b2:hover {
+	background-color: #175b19; /* Green */
+  color: rgb(128, 128, 6);
+}
+
 
 ol {
 	padding-left: 0;
